@@ -56,8 +56,8 @@ p {
     width: 39%;
     height: 100%;
     position: relative;
-    bottom: 272px;
-    right: 4px;
+    bottom: 251px;
+    right: 5px;
 }
 
 #nameG {
@@ -123,6 +123,7 @@ p {
 #plus {
     font-size: 62px;
     font-weight: bold;
+    margin-right: 5px;
 }
 
 #contactB {
@@ -131,7 +132,7 @@ p {
     height: 148px;
     background-color: blue;
     position: relative;
-    bottom: 163px;
+    bottom: 147px;
     right: 5px;
     text-align: center;
 }
@@ -142,8 +143,8 @@ p {
     height: 148px;
     background-color: orange;
     position: relative;
-    bottom: 310px;
-    left: 300px;
+    bottom: 295px;
+    left: 299px;
     text-align: center;
 }
 
@@ -151,4 +152,20 @@ i {
     display: inline-block;
     margin-top: 24px;
     font-size: 47px;
+}
+
+a {
+    display: block;
+    color: white;
+    text-decoration: none;
+    margin-top: 18px;
+}
+
+img {
+    margin-top: 20px;
+}
+
+.lien {
+    position: relative;
+    bottom: 19px;
 }
